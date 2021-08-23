@@ -4,10 +4,10 @@
 // };
 // console.log(person);
 // console.table(person);
-
+// console.log('Cuong');
 //C/R/U/D-Create/Read/Update/Delete
 
-//Create
+// Create
 // let person= {
 //     name: "QuocCuong",
 //     age: "18",
@@ -100,13 +100,12 @@
 // }
 
 //Function ()
-function dienTichTamGiac(h, d){
-    return 1/2*h*d;
-}
-console.log(dienTichTamGiac(4,2));
-function dienTichHinhVuong(a){
-    return a*a;
-}
-function dienTichHinhTron(r){
-    return r*r*3,14;    
-}
+// function dienTichTamGiac(h, d){
+//     return 1/2*h*d;
+// }
+// console.log(dienTichTamGiac(4,2));
+// function dienTichHinhVuong(a){
+//     return a*a;
+// }
+// function dienTichHinhTron(r){
+//     return r*r*3,14;    

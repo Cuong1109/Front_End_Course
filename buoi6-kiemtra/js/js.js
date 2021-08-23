@@ -107,9 +107,9 @@ function leapYear(year)
 let day=prompt('Enter the day:');
 let month=prompt('Enter the month:');
 let year=prompt('Enter the year: ');
-let nextDay=0;
-let nextMonth=0;
-let nextYear=0;
+let nextDay=day;
+let nextMonth=month;
+let nextYear=year;
 let month28=[2];
 let month29=[2];
 let month30=[4,6,9,11];
@@ -142,7 +142,7 @@ if (month>=1 && month<=12) {
     isValid=false;
 }
 if (isValid) {
-    
+    day++;
 } else {
     alert('Your date is not valid');
 }

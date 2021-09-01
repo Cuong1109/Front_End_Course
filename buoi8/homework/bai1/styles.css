@@ -1,0 +1,23 @@
+#main {
+  display: inline-block;
+}
+#main .left-side {
+  height: 450px;
+  width: 300px;
+  background-color: rgb(48, 216, 48);
+  color: white;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  float: left;
+}
+#main .heading-content {
+  font-size: x-large;
+  font-weight: bolder;
+  padding: 10px 10px;
+}
+#main .sub-content {
+}
+#main .list-content {
+  list-style: none;
+}

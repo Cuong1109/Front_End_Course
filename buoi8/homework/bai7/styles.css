@@ -1,0 +1,12 @@
+.content {
+  width: 30%;
+  float: left;
+  padding: 0 10px;
+}
+.block {
+  background-color: aqua;
+  height: 150px;
+}
+.title {
+  font-weight: bolder;
+}

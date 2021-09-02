@@ -1,0 +1,13 @@
+.left-content {
+  float: left;
+  color: grey;
+}
+.right-content {
+  margin-left: 400px;
+  margin-right: 50px;
+}
+.right-content input {
+  display: block;
+  width: 100%;
+  padding: 10px 0px;
+}

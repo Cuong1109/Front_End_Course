@@ -1,0 +1,21 @@
+.background {
+  background-color: gray;
+  margin: 20px 20px;
+}
+.input-small {
+  width: 40%;
+  float: left;
+  margin: 20px 20px;
+  height: 35px;
+}
+.input-large {
+  width: 80%;
+  height: 100px;
+  margin: 20px 20px;
+}
+.btn {
+  width: 100%;
+  background-color: rgb(34, 33, 33);
+  color: white;
+  margin-top: 20px;
+}

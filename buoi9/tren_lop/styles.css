@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-evenly; */
+  align-items: flex-end;
+}
+.box {
+  width: 60px;
+  height: 60px;
+}
+.box1 {
+  background-color: aqua;
+  flex-basis: 200px;
+}
+.box2 {
+  background-color: blue;
+}
+.box3 {
+  background-color: brown;
+}

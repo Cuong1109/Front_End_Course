@@ -1,0 +1,18 @@
+#cover {
+}
+#cover .cover-img {
+  width: 1000px;
+  height: 350px;
+  position: relative;
+}
+#avatar {
+}
+#avatar .avatar-profile {
+  position: absolute;
+  top: 0px;
+}
+.title {
+  text-align: center;
+}
+.navigation-bar {
+}

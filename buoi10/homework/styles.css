@@ -20,17 +20,7 @@
 }
 
 .btn {
-  padding: 10px 40px;
   margin: 10px 0 20px;
-  border: 1px solid #000;
-  border-radius: 50px;
-  background-color: transparent;
-  text-transform: lowercase;
-  font-weight: 900;
-  font-size: 20px;
-  cursor: pointer;
-  /* animation: btnClick ease .5s backwards; */
-  /* transition: all 1s linear; */
 }
 
 .btn:hover {

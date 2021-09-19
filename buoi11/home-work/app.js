@@ -21,7 +21,6 @@ const btn = document.querySelector(".btn")
 
 btn.onclick = function () {
 
-    // var li = document.createElement("li");
     var inputValue = document.getElementById("myInput").value;
     if (inputValue == '') {
         return;

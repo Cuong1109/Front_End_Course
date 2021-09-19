@@ -3,10 +3,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  text-decoration: none;
-  outline: none;
-  border: none;
-  text-transform: capitalize;
 }
 html {
   font-size: 62.5%;
@@ -58,9 +54,6 @@ ul li.checked {
   background-color: rgb(97, 97, 97);
   color: white;
   text-decoration: line-through;
-}
-ul li.checked i.fa-times {
-  text-decoration: none;
 }
 ul li.checked::before {
   content: "";
